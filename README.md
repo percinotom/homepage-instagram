@@ -1,3 +1,3 @@
 # homepage-instagram
 
-### Projetinho de recriação da oágina inicial do Instragram com HTML5 e CSS3. 
+### Projetinho de recriação da página inicial do Instragram com HTML5 e CSS3. 
